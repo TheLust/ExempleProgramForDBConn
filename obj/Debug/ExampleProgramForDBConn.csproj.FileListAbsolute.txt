@@ -1,0 +1,16 @@
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\ExampleProgramForDBConn.exe.config
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\ExampleProgramForDBConn.exe
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\ExampleProgramForDBConn.pdb
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\EntityFramework.dll
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\EntityFramework.SqlServer.dll
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\EntityFramework.xml
+C:\School\ProgViz\ExampleProgramForDBConn\bin\Debug\EntityFramework.SqlServer.xml
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.csproj.AssemblyReference.cache
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.csproj.SuggestedBindingRedirects.cache
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.Form1.resources
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.Properties.Resources.resources
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.csproj.GenerateResource.cache
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.csproj.CoreCompileInputs.cache
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.csproj.CopyComplete
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.exe
+C:\School\ProgViz\ExampleProgramForDBConn\obj\Debug\ExampleProgramForDBConn.pdb

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EXEMPLUBDModelStoreContainer" CdmEntityContainer="dbEntities">
+    <EntitySetMapping Name="ExempluTabels">
+      <EntityTypeMapping TypeName="EXEMPLUBDModel.ExempluTabel">
+        <MappingFragment StoreEntitySet="ExempluTabel">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="ceva" ColumnName="ceva" />
+          <ScalarProperty Name="altceva" ColumnName="altceva" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
